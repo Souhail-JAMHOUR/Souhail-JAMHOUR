@@ -26,7 +26,7 @@ I am a software engineering Student and Music Producer. I love programming, Maki
 <!-- No activity tracked -->
 <!-- ``` -->
 <!--  -->
-<!-- <!--END_SECTION:waka--> -->
+<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
