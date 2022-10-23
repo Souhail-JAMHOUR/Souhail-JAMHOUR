@@ -18,7 +18,7 @@ I am a software engineering Student and Music Producer. I love programming, Maki
 
 </br>
 
-**Technologies i Tried and i m learning**
+**Technologies i tried and/or i m learning**
 
 <p>
 <!-- <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a> -->
