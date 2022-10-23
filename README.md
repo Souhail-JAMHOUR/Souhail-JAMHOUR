@@ -10,12 +10,45 @@ I am a software engineering Student and Music Producer. I love programming, Maki
   
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently focusing on Learning and implementing new technologies;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures, Algorithms and other Stuff on [leetcode](https://leetcode.com/souhail_jamhour/) and [codecademy](https://www.codecademy.com/profiles/Soujow).
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: souhailjamhour@gmail.com.
+<!-- - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
+</br>
 
+**Technologies i Tried and i m learning**
+
+<p>
+<!-- <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a> -->
+<!-- <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> -->
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<!-- <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a> -->
+<a href="https://www.java.com/en/" title="Java"><img src="./icons/Java.png" /></a>
+<!-- <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a> -->
+<!-- <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a> -->
+<!-- <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a> -->
+<!-- <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a> -->
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
+<!-- <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a> -->
+<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<!-- <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a> -->
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://code.visualstudio.com/" title="Intellij"><img src="./icons/Intellij.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+<a href="https://neovim.io/" title="Neovim"><img src="./icons/Neovim.png" /></a>
+
+</p>
+<!-- 📊 **This Week I Spent My Time On:** -->
+<!--  -->
+<!-- <!--START_SECTION:waka--> <!--  -->
+<!-- ```text -->
+<!-- No activity tracked -->
+<!-- ``` -->
+<!--  -->
+<!-- <!--END_SECTION:waka-->
 </br>
 
 📈 **My GitHub Stats:**
