@@ -54,6 +54,6 @@ I am a software engineering Student and Music Producer. I love programming, Maki
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souhail-JAMHOUR&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souhail-JAMHOUR&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souhail-JAMHOUR&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souhail-JAMHOUR&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=dark&layout=compact&langs_count=8"/>
+</p>https://github-readme-stats.vercel.app/api?username=mrjones2014&show_icons=true&count_private=true&theme=dark)
