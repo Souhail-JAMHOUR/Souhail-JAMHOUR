@@ -1,6 +1,7 @@
 ### <samp>&gt; Hi there, I'm <a href="https://souhailjamhour.netlify.app/" target="_blank">Jamhour Souhail</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/souhailjamhour)
+[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/Soujow)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Souhail-JAMHOUR.Souhail-JAMHOUR)
 
