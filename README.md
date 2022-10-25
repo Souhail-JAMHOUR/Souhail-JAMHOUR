@@ -6,6 +6,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Souhail-JAMHOUR.Souhail-JAMHOUR)
 
 I am a software engineering Student and Music Producer. 
+<br/>
 I love programming, Making Music.
 
 <img align="right" alt="GIF" src="img/giphy.gif" width="408" height="318" />
