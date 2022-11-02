@@ -1,13 +1,14 @@
-### <samp>&gt; Hi there, I'm <a href="https://souhailjamhour.netlify.app/" target="_blank">Jamhour Souhail</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://souhailjamhour.netlify.app/" target="_blank">Souhail Jamhour</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souhailjamhour)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/s.jamhour)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Souhail-JAMHOUR.Souhail-JAMHOUR)
 
-I am a software engineering Student and Music Producer. 
+I am a software engineering Student and Music Producer.
+They call me workaholic too!
 <br/>
-I love programming, Making Music.
+I love programming and Making Music.
 
 <img align="right" alt="GIF" src="img/giphy.gif" width="408" height="318" />
   
