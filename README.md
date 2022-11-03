@@ -39,10 +39,11 @@ I love programming and Making Music.
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <!-- <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a> -->
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+<a href="https://neovim.io/" title="Neovim"><img src="./icons/Neovim.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://code.visualstudio.com/" title="Intellij"><img src="./icons/Intellij.png" /></a>
 <a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
-<a href="https://neovim.io/" title="Neovim"><img src="./icons/Neovim.png" /></a>
+
 
 </p>
 <!-- 📊 **This Week I Spent My Time On:** -->
