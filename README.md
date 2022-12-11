@@ -17,8 +17,6 @@ I love programming and Making Music.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures, Algorithms and other Stuff on [codecademy](https://www.codecademy.com/profiles/s.jamhour).
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: souhailjamhour@gmail.com.
-<!-- - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://souhailjamhour.netlify.app/Resume.pdf).-->
-
 </br>
 
 **Technologies i tried and/or i m learning**
