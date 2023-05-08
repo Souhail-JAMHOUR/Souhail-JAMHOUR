@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souhailjamhour)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/s.jamhour)
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=souhail-jamhour.visitor-badge)
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=souhail-jamhour.visitor-badge.souhail-jamhour)
 I am a software engineering Student and Music Producer.
 They call me workaholic too!
 <br/>
