@@ -21,17 +21,16 @@ I love programming and Making Music.
 **Technologies i tried and/or i m learning**
 
 <p>
-<!-- <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a> -->
-<!-- <a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a> -->
+
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<!-- <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a> -->
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.java.com/en/" title="Java"><img src="./icons/Java.png" /></a>
-<!-- <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a> -->
-<!-- <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a> -->
+<!--<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a> -->
+<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <!-- <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a> -->
-<!-- <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a> -->
+<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<!-- <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a> -->
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
 <!-- <a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a> -->
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
@@ -42,14 +41,7 @@ I love programming and Making Music.
 
 
 </p>
-<!-- 📊 **This Week I Spent My Time On:** -->
-<!--  -->
-<!-- <!--START_SECTION:waka--> <!--  -->
-<!-- ```text -->
-<!-- No activity tracked -->
-<!-- ``` -->
-<!--  -->
-<!-- <!--END_SECTION:waka-->
+
 </br>
 
 📈 **My GitHub Stats:**
@@ -57,4 +49,5 @@ I love programming and Making Music.
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souhail-JAMHOUR&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souhail-JAMHOUR&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&theme=dark&layout=compact&langs_count=8"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Souhail-JAMHOUR&count_private=true&theme=dark" alt="Souhail Jamhour" />
 </p>
