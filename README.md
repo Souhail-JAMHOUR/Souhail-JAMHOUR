@@ -22,9 +22,9 @@ I love programming and Making Music.
 
 <p>
 
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.java.com/en/" title="Java"><img src="./icons/Java.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
